@@ -171,16 +171,16 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/string-dotcase-cli.svg
 [npm-url]: https://npmjs.org/package/@stdlib/string-dotcase-cli
 
-[test-image]: https://github.com/stdlib-js/string-dotcase/actions/workflows/test.yml/badge.svg?branch=v0.1.1
-[test-url]: https://github.com/stdlib-js/string-dotcase/actions/workflows/test.yml?query=branch:v0.1.1
+[test-image]: https://github.com/stdlib-js/string-dotcase@v0.1.1/actions/workflows/test.yml/badge.svg?branch=v0.1.1
+[test-url]: https://github.com/stdlib-js/string-dotcase@v0.1.1/actions/workflows/test.yml?query=branch:v0.1.1
 
-[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/string-dotcase/main.svg
-[coverage-url]: https://codecov.io/github/stdlib-js/string-dotcase?branch=main
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/string-dotcase@v0.1.1/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/string-dotcase@v0.1.1?branch=main
 
 <!--
 
-[dependencies-image]: https://img.shields.io/david/stdlib-js/string-dotcase.svg
-[dependencies-url]: https://david-dm.org/stdlib-js/string-dotcase/main
+[dependencies-image]: https://img.shields.io/david/stdlib-js/string-dotcase@v0.1.1.svg
+[dependencies-url]: https://david-dm.org/stdlib-js/string-dotcase@v0.1.1/main
 
 -->
 
@@ -191,19 +191,19 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
-[cli-section]: https://github.com/stdlib-js/string-dotcase#cli
-[cli-url]: https://github.com/stdlib-js/string-dotcase/tree/cli
-[@stdlib/string-dotcase]: https://github.com/stdlib-js/string-dotcase/tree/main
+[cli-section]: https://github.com/stdlib-js/string-dotcase@v0.1.1#cli
+[cli-url]: https://github.com/stdlib-js/string-dotcase@v0.1.1/tree/cli
+[@stdlib/string-dotcase]: https://github.com/stdlib-js/string-dotcase@v0.1.1/tree/main
 
 [umd]: https://github.com/umdjs/umd
 [es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
 
-[deno-url]: https://github.com/stdlib-js/string-dotcase/tree/deno
-[umd-url]: https://github.com/stdlib-js/string-dotcase/tree/umd
-[esm-url]: https://github.com/stdlib-js/string-dotcase/tree/esm
-[branches-url]: https://github.com/stdlib-js/string-dotcase/blob/main/branches.md
+[deno-url]: https://github.com/stdlib-js/string-dotcase@v0.1.1/tree/deno
+[umd-url]: https://github.com/stdlib-js/string-dotcase@v0.1.1/tree/umd
+[esm-url]: https://github.com/stdlib-js/string-dotcase@v0.1.1/tree/esm
+[branches-url]: https://github.com/stdlib-js/string-dotcase@v0.1.1/blob/main/branches.md
 
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/string-dotcase/main/LICENSE
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/string-dotcase@v0.1.1/main/LICENSE
 
 [standard-streams]: https://en.wikipedia.org/wiki/Standard_streams
 
