@@ -44,6 +44,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import dotcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-dotcase@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/string-dotcase/tags). For example,
+
+```javascript
 import dotcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-dotcase@v0.2.2-deno/mod.js';
 ```
 
@@ -76,7 +81,7 @@ out = dotcase( '--foo-bar--' );
 ## Examples
 
 ```javascript
-import dotcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-dotcase@v0.2.2-deno/mod.js';
+import dotcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-dotcase@deno/mod.js';
 
 var str = 'Hello World!';
 var out = dotcase( str );
