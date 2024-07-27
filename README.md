@@ -44,7 +44,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dotcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-dotcase@deno/mod.js';
+import dotcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-dotcase@v0.2.2-deno/mod.js';
 ```
 
 #### dotcase( str )
@@ -76,7 +76,7 @@ out = dotcase( '--foo-bar--' );
 ## Examples
 
 ```javascript
-import dotcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-dotcase@deno/mod.js';
+import dotcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-dotcase@v0.2.2-deno/mod.js';
 
 var str = 'Hello World!';
 var out = dotcase( str );
